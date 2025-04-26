@@ -3,9 +3,4 @@
 simple changes from git hub site
 
 
-aaa
-=======
 
-bbbb
-======
-dddd
